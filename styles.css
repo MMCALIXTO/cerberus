@@ -175,7 +175,7 @@ h2.grid-title {
     height: 25px;
     color: #fff;
     font-size: 22px;
-    background: #0a0b0c;
+    background: #110000;
     border: 0.1px solid #a2a2a2;
     margin-right: 50px;
 }
@@ -222,7 +222,7 @@ table.weapons td select {
 
 table.weapons td button {
     color: #fff;
-    background: #0a0b0c;
+    background: #110000;
 }
 
 .trashcan {
@@ -261,7 +261,7 @@ select {
 
     padding: 3px 4px;
     margin-bottom: 10px;
-    background-color: #0a0b0c;
+    background-color: #110000;
     color: #fff;
 
     font-family: 'Itim', sans-serif;
@@ -802,7 +802,7 @@ select:focus {
 }
 
 .modal-content {
-  background-color: #0a0b0c;
+  background-color: #110000;
   text-align: center;
   margin: 15% auto;
   padding: 20px;
@@ -962,7 +962,7 @@ input[type="checkbox"]:checked + label:after {
 .textHabilidades1{
     height: 7%;
     width: 95%;
-    border: #0a0b0c;
+    border: #110000;
     margin-left: 2.5%;
     margin-right: 2.5%;
     resize: none;
@@ -980,11 +980,11 @@ input[type="checkbox"]:checked + label:after {
 }
 
 .habilidades::-webkit-scrollbar-track{
-    background-color: #0a0b0c;
+    background-color: #110000;
 }
 
 .habilidades::-webkit-scrollbar-button{
-    background-color: #0a0b0c;
+    background-color: #110000;
 }
 
 .habilidades::-webkit-scrollbar-thumb{
@@ -1021,11 +1021,11 @@ input[type="checkbox"]:checked + label:after {
 }
 
 .inventarios::-webkit-scrollbar-track{
-    background-color: #0a0b0c;
+    background-color: #110000;
 }
 
 .inventarios::-webkit-scrollbar-button{
-    background-color: #0a0b0c;
+    background-color: #110000;
 }
 
 .inventarios::-webkit-scrollbar-thumb{
@@ -1103,7 +1103,7 @@ input[type="checkbox"]:checked + label:after {
     height: 25px;
     color: #fff;
     font-size: 22px;
-    background: #0a0b0c;
+    background: #110000;
     border: 0.1px solid #a2a2a2;
     margin-right: 50px;
 }
